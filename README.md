@@ -2,7 +2,7 @@
 
 Reproducible analysis code for the article:
 
-> **Who Is Left Offline When Health Care Goes Digital? Individual and Household Digital Resources Among People with Activity Limitations in a Nationally Representative Survey from Türkiye.** Güvey, E. *et al.* (submitted to *Healthcare*, MDPI).
+> **Who Is Left Offline When Health Care Goes Digital? Individual and Household Digital Resources Among People with Activity Limitations in a Nationally Representative Survey from Türkiye.** Güvey, E.
 
 The code estimates crude and adjusted gaps in internet use and online health services by activity limitation (GALI), within-household (household fixed-effects) gaps, household-inclusive ("relational") access and digital isolation, using design-based Rao–Wu bootstrap inference. It produces all tables, figures and supplementary files of the article.
 
